@@ -62,6 +62,9 @@ If you have any additional resources that you want to include, please feel free 
     - [paper](http://arxiv.org/abs/2405.07987) 2024.05, The Platonic Representation Hypothesis (1st)
     * 2024/May/31
     - [paper](http://arxiv.org/abs/2303.16990) 2024.05, What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions (1st)
+
+### June 2024
+
 * 2024/June/1st
     - [paper](http://arxiv.org/abs/2404.00408) arXiv  2024.03, Deep Learning with Parametric Lenses 
 
