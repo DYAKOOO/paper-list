@@ -3,7 +3,7 @@
 
 (paraphrased by Cluade) 
 
-I have audited or completed homework assignments for several course materials and research papers, which may or may not represent the entire collection. The creators of these courses generously shared their knowledge with the public. For those interested in getting started with Machine Learning (ML), particularly Deep Learning, CS182 is an excellent entry point, provided you have some prerequisites, such as basic Python programming skills and university-level mathematics.
+I have audited or completed homework assignments for several course materials and have read the related research papers, which may or may not represent the entire collection. The creators of these courses generously shared their knowledge with the public. For those interested in getting started with Machine Learning (ML), particularly Deep Learning, CS182 is an excellent entry point, provided you have some prerequisites, such as basic Python programming skills and university-level mathematics.
 
 In the Deep Learning community, acronyms are widely used. For example, Latent Variable Model (LVM), Autoregressive (AR), Autoencoder (AE), and Masked Auto Encoder (MAE), among others. 
 
@@ -15,13 +15,14 @@ If you have any additional resources that you want to include, please feel free 
 
 
 ## Courses 
+* COS435 - Intro to RL 
+    - Website : https://ben-eysenbach.github.io/intro-rl/
+    - 
+
 * Cs182
     - Website :  https://inst.eecs.berkeley.edu/~cs182/sp23/
     - Youtube plalist : https://www.youtube.com/watch?v=FHsGHxQYxvc&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A&index=2&ab_channel=RAIL
     
-* COS435 - Intro to RL 
-    - Website : https://ben-eysenbach.github.io/intro-rl/
-
 * CS285 - Deep RL 
     - Website - https://rail.eecs.berkeley.edu/deeprlcourse/
     - Youtube Playlist - https://rail.eecs.berkeley.edu/deeprlcourse/
@@ -39,12 +40,9 @@ If you have any additional resources that you want to include, please feel free 
     - [Semi-supervised learning and unsupervised distribution alignment ](./courses/cs294/SemiSupervised.md)
     - [Compression](./courses/cs294/compression.md)
     - [MultiModal](./courses/cs294/compression.md)
-    - [Parallization](./courses/cs294/Parallelization.md)
-    - [AI for science](./courses/cs294/AIForScience.md)
-    - [Neural Radiance Field](./courses/cs294/Nerf.md)
-
-
-    
+    - [GaussianSplatting](./courses/cs294/GaussianSplatting.md) - I have replaced NERF with gaussian splatting since its faster and better quality. 
+    - [ReasonPlanControl](./courses/cs294/ReasonPlanControl.md) - Although not part of CS294 , Reasoning is a huge part to make these system more performant. 
+    - [Misc](./courses/cs294/Misc.md) - Other miscellaneous content that is not part of and can't be grouped into these. 
 
 
 
@@ -64,6 +62,40 @@ If you have any additional resources that you want to include, please feel free 
     - [paper](http://arxiv.org/abs/2405.07987) 2024.05, The Platonic Representation Hypothesis (1st)
     * 2024/May/31
     - [paper](http://arxiv.org/abs/2303.16990) 2024.05, What, when, and where? -- Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions (1st)
+* 2024/June/1st
+    - [paper](http://arxiv.org/abs/2404.00408) arXiv  2024.03, Deep Learning with Parametric Lenses 
+
+* 2024/June/2nd
+    - [paper](http://arxiv.org/abs/2405.19327) arXiv  2024.06, MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series
+
+* 2024/June/5th
+    - [paper](http://arxiv.org/abs/2405.20321) 2024.05, Vision-based Manipulation from Single Human Video with Open-World Object Graphs
+
+    - [paper](http://arxiv.org/abs/2406.00439) 2024.06, Learning Manipulation by Predicting Interaction,
+
+* 2024/June/6th
+    - [paper](http://arxiv.org/abs/2406.00439) 2024.06, Learning Manipulation by Predicting Interaction
+* 2024/June/7th
+    - [paper](http://arxiv.org/abs/2402.02511) 2024.05, PoCo: Policy Composition from and for Heterogeneous Robot Learning, 
+
+* 2024/June/8th
+    - [paper](http://arxiv.org/abs/2405.20519) 2024.05, Diffusion On Syntax Trees For Program Synthesis
+
+* 2024/June/9th
+    - [paper](http://arxiv.org/abs/2402.03161) arXiv  2024.06, Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization
+
+* 2024/June/10th
+    - [paper](http://arxiv.org/abs/2311.16098) 2023.11, On Bringing Robots Home 1st
+
+
+* 2024/June/14th 
+    - [paper](http://arxiv.org/abs/2406.07539) arXiv  2024.06, BAKU: An Efficient Transformer for Multi-Task Policy Learning,
+
+* 2024/June/15th
+    - [paper](http://arxiv.org/abs/2401.03890) 2024.04, A Survey on 3D Gaussian Splatting - 2nd
+* 2024/June/16th
+    - [paper](http://arxiv.org/abs/2406.09246) 2024.06, OpenVLA: An Open-Source Vision-Language-Action Model - 1st 
+    - [paper](http://arxiv.org/abs/2406.08474) 2024.06, Real2Code: Reconstruct Articulated Objects via Code Generation - 1st 
 
 
 
